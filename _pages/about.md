@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-My research passion lies in Explainable AI (XAI), where I act as a detective for AI decisions. Currently, I focus on model-agnostic, local explanation techniques—the universal keys to unlocking the black box. My latest adventure involves applying these methods to decipher the reasoning of large language models. I pursue this work as a graduate student at the School of Computer Science, Peking University, driven by the belief that for AI to be truly powerful, it must also be understandable.
+I'm a third year Ph.D. student from [Programming Languages Lab](https://pl.cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), on a quest to make artificial intelligence more transparent and trustworthy. My primary arsenal consists of model-agnostic, local explanation methods, allowing me to probe a wide range of AI models. Recently, I've turned this focus towards one of the most exciting frontiers: interpreting the complex inner workings of large language models, working to ensure that the future of AI is not just intelligent, but also intelligible.
