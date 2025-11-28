@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Struggling in research and papers"
   location         : "Earth"
-  employer         : "Red Brick University"
+  # employer         : "Red Brick University"
   uri              : # URL
   email            : "a616156@stu.pku.edu.cn" 
 
