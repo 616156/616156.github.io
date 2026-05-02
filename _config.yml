@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Haonan Yu's Personal Homepage"
+title                    : "Haonan Yu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Haonan Yu"
+description              : &description "Ph.D. student at Peking University working on explainable and trustworthy AI."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://616156.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Haonan Yu"
   pronouns         : # example: "she/her"  
-  bio              : "Struggling in research and papers"
-  location         : "Earth"
+  bio              : "Ph.D. student at Peking University"
+  location         : "Beijing, China"
   # employer         : "Red Brick University"
   uri              : # URL
   email            : "a616156@stu.pku.edu.cn" 
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/616156"
+  github           : "616156"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

@@ -7,4 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year Ph.D. student from [Programming Languages Lab](https://pl.cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), on a quest to make artificial intelligence more transparent and trustworthy. My primary arsenal consists of model-agnostic, local explanation methods, allowing me to probe a wide range of AI models. Recently, I've turned this focus towards one of the most exciting frontiers: interpreting the complex inner workings of large language models, working to ensure that the future of AI is not just intelligent, but also intelligible.
+I am a Ph.D. student in the [Programming Languages Lab](https://pl.cs.pku.edu.cn/) at [Peking University](https://www.pku.edu.cn/). My research focuses on explainable and trustworthy AI, especially model-agnostic local explanation methods for modern machine learning systems and large language models.
+
+Recently, I have been working on making interpretability more practical: reducing the cost of explaining black-box LLMs, accelerating rule-based explanations, and turning explanations into actionable tools for model and prompt optimization.
+
+## Recent Publications
+
+- **MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation**  
+  **ICML 2026**. First author.  
+  We propose a memorization-based acceleration framework for Anchors, reusing and transforming previously generated rules to reduce explanation time while preserving fidelity and understandability.  
+  [[Paper](/files/icml2026_MAnchors.pdf)]
+
+- **Revitalizing Black-Box Interpretability: Actionable Interpretability for LLMs via Proxy Models**  
+  **ACL 2026**. Second author.  
+  We introduce a budget-friendly proxy framework for LLM interpretability, using efficient models plus a statistical screen-and-apply mechanism to approximate expensive black-box explanations and support prompt compression and poisoned example removal.  
+  [[Paper](/files/ACL2026_XLLM_Budget.pdf)] [[Code & Data](https://github.com/outerform/XLLM-Bench)]
