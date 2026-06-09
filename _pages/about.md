@@ -13,6 +13,11 @@ Recently, I have been working on making interpretability more practical: reducin
 
 ## Recent Publications
 
+- **Focus-LIME: Surgical Interpretation of Long-Context Large Language Models via Proxy-Based Neighborhood Selection**<br>
+  **IJCAI-ECAI 2026**. Second author.<br>
+  We propose a coarse-to-fine framework that uses a proxy model to select an optimized neighborhood for faithful, fine-grained explanations of long-context large language models.<br>
+  [[Paper](/files/focus-lime.pdf)] [[arXiv](https://arxiv.org/abs/2602.04607)]
+
 - **MAnchors: Memorization-Based Acceleration of Anchors via Rule Reuse and Transformation**  
   **ICML 2026**. First author.  
   We propose a memorization-based acceleration framework for Anchors, reusing and transforming previously generated rules to reduce explanation time while preserving fidelity and understandability.  
